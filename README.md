@@ -30,3 +30,4 @@ Alcuni esempi di funzioni future includono:
 - 🔄 Automazione di flussi di lavoro ripetitivi.
 
 ---
+Il mio secondo sito dove offro corsi Excel: https://masterexcel.it/
